@@ -12,4 +12,10 @@ public class AnimalListItem {
         next=null;
     }
 
+    @Override
+    public String toString() {
+        return "AnimalListItem{" +
+                "value=" + value +
+                '}';
+    }
 }

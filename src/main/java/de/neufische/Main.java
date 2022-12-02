@@ -7,7 +7,7 @@ import de.neufische.linkedlist.AnimalListItem;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-
+/*
         // Aufgabe Vehicle
         Verhicle auto=new Auto(1,"Audi",50);
         Verhicle fahrrad1=new Fahrrad(2,"ABC",24);
@@ -16,11 +16,16 @@ public class Main {
         fahrrad1.accelerate(10);
         fahrrad2.accelerate(15);
 
-
+*/
         // Aufgabe Linked List Implementation
         AnimalList list= new AnimalList(new AnimalListItem(new Animal("a")));
-        list.add(new Animal("b"));
-        list.add(new Animal("c"));
+        list.addItem(new Animal("b"));
+        list.addItem(new Animal("c"));
+        list.addItem(new Animal("d"));
+        list.addItem(new Animal("c"));
+        list.addItem(new Animal("e"));
+        list.removeItem("c");
+
         System.out.println(list);
     }
 

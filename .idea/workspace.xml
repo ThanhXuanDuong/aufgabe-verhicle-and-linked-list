@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f5ea4dc-3894-4717-b448-6d006e4c2741" name="Changes" comment="Init: 1.Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neufische/Accelerateable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neufische/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neufische/Fahrrad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neufische/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neufische/Verhicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neufische/linkedlist/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neufische/linkedlist/AnimalList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neufische/linkedlist/AnimalListItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neufische/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neufische/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neufische/linkedlist/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neufische/linkedlist/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neufische/linkedlist/AnimalList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neufische/linkedlist/AnimalList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neufische/linkedlist/AnimalListItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neufische/linkedlist/AnimalListItem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +83,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669908923949</updated>
-      <workItem from="1669908925295" duration="18677000" />
+      <workItem from="1669908925295" duration="24041000" />
     </task>
+    <task id="LOCAL-00001" summary="Init: 1.Commit">
+      <created>1669964067494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669964067494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
